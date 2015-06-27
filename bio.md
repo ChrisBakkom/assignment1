@@ -10,3 +10,5 @@ However I have worked with C, python and SQL
 >>>>>>> programming-bio
 
 I have absolutely no experience in webdevelopement
+
+Here are some changes from another-branch that we wont commit to master
